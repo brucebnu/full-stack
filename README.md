@@ -10,7 +10,7 @@ The term full-stack means developers who are comfortable working with both back-
 - 保持好奇心：
   - 价值
   - 意义
-  - 方向
+  - 目标
 
 * * *
 
